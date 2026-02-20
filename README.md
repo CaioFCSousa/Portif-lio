@@ -1,73 +1,66 @@
-# Welcome to your Lovable project
+# Portfólio - CaioSousa
 
-## Project info
+Portfólio desenvolvido com React, TypeScript, Tailwind CSS e components modernos.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## 🚀 Como Começar
 
-## How can I edit this code?
+Requisites: Node.js & npm instalado - [instalar com nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+Siga estes passos:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
+# Passo 1: Clone o repositório
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Passo 2: Navegue até o diretório do projeto
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
+# Passo 3: Instale as dependências
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Passo 4: Inicie o servidor de desenvolvimento
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## 📚 Tecnologias
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Este projeto foi construído com:
 
-**Use GitHub Codespaces**
+- **Vite** - Build tool rápido
+- **TypeScript** - Tipagem estática
+- **React** - Biblioteca UI
+- **shadcn-ui** - Components reutilizáveis
+- **Tailwind CSS** - Utility-first CSS
+- **Framer Motion** - Animações suaves
+- **React Router** - Roteamento
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🎨 Recursos
 
-## What technologies are used for this project?
+- Design responsivo e moderno
+- Animações de alta performance
+- Tema escuro com cores neon
+- Integração de formulários com validação
+- Terminal interativo
+- Seção de projetos com showcases
 
-This project is built with:
+## 📝 Editar o Código
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Você pode editar o código de várias formas:
 
-## How can I deploy this project?
+1. **No seu IDE local** - Clone o repositório e comece a desenvolvera colocar em produção facilmente com Netlify, Vercel ou GitHub Pages.
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+2. **No GitHub** - Navegue até o arquivo desejado, clique no botão "Edit" e faça suas alterações.
 
-## Can I connect a custom domain to my Lovable project?
+3. **Com GitHub Codespaces** - Clique em "Code" > "Codespaces" > "New codespace" para um ambiente de desenvolvimento online.
 
-Yes, you can!
+## 🌐 Deploy
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Você pode fazer o deploy desta aplicação em várias plataformas:
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+- **Netlify** - Conecte seu repositório GitHub para deploy automático
+- **Vercel** - Plataforma otimizada para aplicações Next.js/React
+- **GitHub Pages** - Deploy gratuito criando uma build estática
+
+## 📄 Licença
+
+Este projeto é de código aberto e está disponível para uso pessoal ou comercial.
